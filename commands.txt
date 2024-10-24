@@ -9,4 +9,4 @@ git add .  --it adds the file to the staging alternatives (file is being tracked
 git commit -m "message"  --to commit the changes in the tracked file
 git push orgin master  --pushing  the file to the main branch in github repository
 git add filename --it will send the specific file
-git add . --it will send the whole file
+git add . --it will send the whole 
