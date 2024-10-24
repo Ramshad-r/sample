@@ -1,0 +1,12 @@
+git clone-https://github.com/Ramshad-r/sample.git
+it will clone the file and give another same file
+"
+git and github
+alternatives-aws,bitbucket,gitlab
+
+commands.txt
+git add .  --it adds the file to the staging alternatives (file is being tracked by git) 
+git commit -m "message"  --to commit the changes in the tracked file
+git push orgin master  --pushing  the file to the main branch in github repository
+git add filename --it will send the specific file
+git add . --it will send the whole file
